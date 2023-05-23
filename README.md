@@ -37,8 +37,8 @@
 
 ## 📈 GitHub Statistics
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahkushal38&theme=github_dark&show_icons=true&locale=en" alt="shahkushal38" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahkushal38&theme=github-dark-blue" alt="shahkushal38" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shahkushal38&theme=github_dark&show_icons=true&locale=en" alt="shahkushal38" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shahkushal38&theme=github-dark-blue" alt="shahkushal38" />
 </p>
 
 
